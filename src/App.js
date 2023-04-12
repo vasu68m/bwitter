@@ -1,4 +1,5 @@
 import './App.css';
+import Sidebar from "./Sidebar"
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
     <h1> just a late bloomer.... </h1>
     
     {/* sidebar */}
+    <Sidebar/>
 
     {/* feed */}
 
