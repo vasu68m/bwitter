@@ -1,0 +1,5 @@
+.feed{
+    flex:0.4;
+    /* takes 40% of the remaining */
+    border-right:1px solid var(--twitter-background);
+}

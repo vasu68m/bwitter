@@ -1,15 +1,17 @@
 import './App.css';
 import Sidebar from "./Sidebar"
+import Feed from "./Feed"
 
 function App() {
   return (
-    <div className="a pp">
-    <h1> just a late bloomer.... </h1>
+    <div className="app">
     
     {/* sidebar */}
     <Sidebar/>
 
     {/* feed */}
+    <Feed/>
+
 
     {/* widgets */}
 
