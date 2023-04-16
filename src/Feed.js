@@ -22,7 +22,7 @@ function Feed() {
     <Post avatar="https://wallpapercave.com/wp/wp9177239.jpg" userName="Hinata" quote="naruto do something to stop him" link="https://media.tenor.com/iGyOzGf5LacAAAAC/hinata-hinata-hyuga.gif"/>
     <Post avatar="https://qph.cf2.quoracdn.net/main-qimg-edd5748057a8ba0e37ac30fc4af21d2b-lq" userName="Tsunade" quote="orochimaru.... don't spoil the kids future the way u have spoiled yours!" link="https://64.media.tumblr.com/896cc09420244cab1bf3b59a4dddf278/tumblr_p61qj9DZ1Y1vhmmrto1_540.gif"/>
     <Post avatar="https://wallpapercave.com/wp/wp9253530.jpg" userName="Jiraiya" quote="orochimaru..u didn't changed a bit, even after soo many years. it's sadenning" link="https://i.pinimg.com/originals/8f/f3/f3/8ff3f3766883aa28da9930f0b055c7c3.gif"/>
-    <Post avatar="https://steamuserimages-a.akamaihd.net/ugc/947338758891814809/2FD79E41D7F8A366D6C676410912A5A630B44E57/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" userName="Orochimaru" quote="the boy wants power, which u weaklings don't posses." link="https://pbs.twimg.com/media/Bfhek41CEAEr-58.png"/>
+    <Post avatar="https://steamuserimages-a.akamaihd.net/ugc/947338758891814809/2FD79E41D7F8A366D6C676410912A5A630B44E57/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" userName="Orochimaru" quote="the boy wants power, which u weaklings don't posses." link="https://animesher.com/orig/0/52/527/5279/animesher.com_long-hair-badass-orochimaru-527963.gif"/>
     
     </div>
   )
